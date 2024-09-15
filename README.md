@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jayadarshinig0609
+- 👀 I’m interested in CYBERSECURITY
+- 🌱 I’m currently learning BTECH, COMPUTER SCIENCE AND BUSINESS SYSTEMS
+- 📫 Linkedin id : https://www.linkedin.com/in/jaya-darshini-ganesh-srinivasan-b88736227/?originalSubdomain=in
+- 😄 Pronouns: She/her
