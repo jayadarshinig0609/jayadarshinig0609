@@ -1,10 +1,8 @@
-<h1 align="center">Hola!, I'm JAYA DARSHINI</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola,+👋;I'm+Jaya+Darshini...;Welcome+to+my+Universe!&center=true&size=35&width=500&height=70">
+</h1>
+<p align="center">
 <h3 align="center">A passionate web developer and a cybersecurity enthusiast. Eager to contribute to projects that enhance healthcare technology and strengthen digital security.</h3>
-img align="right" alt="Coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif"
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayadarshinig0609&label=Profile%20views&color=0e75b6&style=flat" alt="jayadarshinig0609" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayadarshinig0609" alt="jayadarshinig0609" /></a> </p>
 
 # 💫 About Me:
 🔭 MODIFIED BLOOD OXYGEN LEVELS DETECTION<br>👯 I’m looking to collaborate on cutting-edge medtech projects and cybersecurity innovations. Let's work together to create impactful solutions for healthcare and digital security challenges<br>🌱 I’m currently learning COMPUTER SCIENCE AND BUSINESS SYSTEMS<br>💬 Ask me about CYBERSECURITY, WEB DEVELOPMENT and MEDTECH PROJECTS<br>
