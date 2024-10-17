@@ -1,3 +1,11 @@
+<h1 align="center">Hola!, I'm JAYA DARSHINI</h1>
+<h3 align="center">A passionate web developer and a cybersecurity enthusiast. Eager to contribute to projects that enhance healthcare technology and strengthen digital security.</h3>
+img align="right" alt="Coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif"
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayadarshinig0609&label=Profile%20views&color=0e75b6&style=flat" alt="jayadarshinig0609" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayadarshinig0609" alt="jayadarshinig0609" /></a> </p>
+
 # 💫 About Me:
 🔭 MODIFIED BLOOD OXYGEN LEVELS DETECTION<br>👯 I’m looking to collaborate on cutting-edge medtech projects and cybersecurity innovations. Let's work together to create impactful solutions for healthcare and digital security challenges<br>🌱 I’m currently learning COMPUTER SCIENCE AND BUSINESS SYSTEMS<br>💬 Ask me about CYBERSECURITY, WEB DEVELOPMENT and MEDTECH PROJECTS<br>
 
@@ -25,7 +33,7 @@
 [![](https://visitcount.itsvg.in/api?id=jayadarshinig0609&icon=0&color=4)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/jayadarshinig) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/jayadarshinig) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/jayadarshinig) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
