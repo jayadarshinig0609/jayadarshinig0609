@@ -6,11 +6,12 @@
 <h3 align="center">A passionate web developer and a cybersecurity enthusiast. Eager to contribute to projects that enhance healthcare technology and strengthen digital security.</h3>
 
 # 💫 About Me:
-🔭 MODIFIED BLOOD OXYGEN LEVELS DETECTION<br>👯 I’m looking to collaborate on cutting-edge medtech projects and cybersecurity innovations. Let's work together to create impactful solutions for healthcare and digital security challenges<br>🌱 I’m currently learning COMPUTER SCIENCE AND BUSINESS SYSTEMS<br>💬 Ask me about CYBERSECURITY, WEB DEVELOPMENT and MEDTECH PROJECTS<br>
+🔭 Currently Working on MODIFIED BLOOD OXYGEN LEVELS DETECTION<br>👯 I’m looking to collaborate on cutting-edge medtech projects and cybersecurity innovations. Let's work together to create impactful solutions for healthcare and digital security challenges<br>🌱 I’m currently learning COMPUTER SCIENCE AND BUSINESS SYSTEMS<br>💬 Ask me about CYBERSECURITY, WEB DEVELOPMENT and MEDTECH PROJECTS<br> ⚡Languages Known: English, Tamil, Hindi, Telugu, Gujarati<br>
 
 
 ## 🌐 Connect with me on:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jayadarshinig_59375) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/jaya-darshini-ganesh-srinivasan-b88736227) 
+<a href="https://discord.gg/jayadarshinig_59375"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jaya-darshini-ganesh-srinivasan/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the badge&logo=Linkedin&logoColor=white"/></a>
 
 ## ✍️ Reach out to me:
 <a href="mailto:jayadarshinigb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -25,7 +26,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jayadarshinig0609&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Inspiring quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
@@ -33,5 +34,14 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jayadarshinig0609&icon=0&color=4)](https://visitcount.itsvg.in)
+---
+<h2 align="center">❤️ Show your support - Buy me a pizza 🍕🍕</h2>
+<p align="center">
+  <a href="https://buymeacoffee.com/jayadarshinig" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Pizza" height="60px" width="217px" >
+  </a>
+</p>
+
+
 
 
