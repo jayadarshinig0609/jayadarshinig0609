@@ -9,7 +9,7 @@
 
 
 ## 🌐 Connect with me on:
-<a href="https://discord.gg/jayadarshinig_59375"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
+<a href="https://discord.gg/H2UdA8cV"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jaya-darshini-ganesh-srinivasan/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the badge&logo=Linkedin&logoColor=white"/></a>
 
 ## ✍️ Reach out to me:
