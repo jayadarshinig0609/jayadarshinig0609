@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola,+👋;I'm+Jaya+Darshini...;Welcome+to+my+Universe!&center=true&size=35&width=500&height=70">
 </h1>
-
 <p align="center">
 <h3 align="center">A passionate web developer and a cybersecurity enthusiast. Eager to contribute to projects that enhance healthcare technology and strengthen digital security.</h3>
 
