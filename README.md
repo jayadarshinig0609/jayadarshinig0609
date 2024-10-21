@@ -1,6 +1,11 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola,+👋;I'm+Jaya+Darshini...;Welcome+to+my+Universe!&center=true&size=35&width=500&height=70">
+
+</div>
 </h1>
+<br/>
+
+<img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <p align="center">
 <h3 align="center">A passionate web developer and a cybersecurity enthusiast. Eager to contribute to projects that enhance healthcare technology and strengthen digital security.</h3>
 
@@ -18,28 +23,36 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jayadarshinig0609&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jayadarshinig0609&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayadarshinig0609&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align='left'><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=jayadarshinig0609&theme=radical" alt="JAYA DARSHINI's Stats" />
+  </p> 
+   <p align='left'>
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=jayadarshinig0609&count_private=true&theme=radical"/>
+</p>
+ <p align='left'>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jayadarshinig0609&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"></p>
+
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jayadarshinig0609&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+ <img src="https://github-profile-trophy.vercel.app/?username=jayadarshinig0609&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
 
-### ✍️ Inspiring quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Inspiring quotes<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jayadarshinig0609&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=jayadarshinig0609&icon=0&color=4)](https://visitcount.itsvg.in)
----
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jayadarshinig0609&label=Profile%20views&color=0e75b6&style=flat" alt="jayadarshinig" /> </p>
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
 <h2 align="center">❤️ Show your support - Buy me a pizza 🍕🍕</h2>
 <p align="center">
   <a href="https://buymeacoffee.com/jayadarshinig" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Pizza" height="60px" width="217px" >
   </a>
 </p>
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
+ 
 
 
 
