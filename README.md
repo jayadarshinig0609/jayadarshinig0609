@@ -48,7 +48,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jayadarshinig0609&label=Profile%20views&color=0e75b6&style=flat" alt="jayadarshinig" /> </p>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
-<h2 align="center">❤️ Show your support - Buy me a pizza 🍕🍕</h2>
+<h2 align="center">❤️ Show your support - Buy me a pizza 🍕</h2>
 <p align="center">
   <a href="https://buymeacoffee.com/jayadarshinig" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Pizza" height="60px" width="217px" >
